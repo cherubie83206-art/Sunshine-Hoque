@@ -1,0 +1,6 @@
+{
+  "name": "BioTech Bangladesh — National Genomic & Agro-Tech Portal",
+  "description": "The centralized national portal unifying biotechnology research, genome sequencing directives, deltaic food security programs, and public health genetics across Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
